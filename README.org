@@ -1,0 +1,4 @@
+#+TITLE: Logic, proof and type theory, grammar and rhetoric
+
+This is my personal repository with notes for type theory,
+proof theory and the trivium.
